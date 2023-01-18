@@ -1,0 +1,15 @@
+/Users/samil/Projects/arrayHome/arrayHome/bin/Debug/net7.0/arrayHome
+/Users/samil/Projects/arrayHome/arrayHome/bin/Debug/net7.0/arrayHome.deps.json
+/Users/samil/Projects/arrayHome/arrayHome/bin/Debug/net7.0/arrayHome.runtimeconfig.json
+/Users/samil/Projects/arrayHome/arrayHome/bin/Debug/net7.0/arrayHome.dll
+/Users/samil/Projects/arrayHome/arrayHome/bin/Debug/net7.0/arrayHome.pdb
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.csproj.AssemblyReference.cache
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.AssemblyInfoInputs.cache
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.AssemblyInfo.cs
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.dll
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/refint/arrayHome.dll
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.pdb
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/arrayHome.genruntimeconfig.cache
+/Users/samil/Projects/arrayHome/arrayHome/obj/Debug/net7.0/ref/arrayHome.dll
